@@ -7,6 +7,6 @@ _Use it to backup from one server to another (if you're an **Admin** of both)._
 - Accepting contributions! 😊
 
 ## Possible Features:
-- Own API;
+- Own API to store functions;
 - Backup: Emojis, Channels, Server Info;
 - Slash Commands (discord.js v13 and node.js v12 required).
