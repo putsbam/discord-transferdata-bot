@@ -1,14 +1,14 @@
 # discord-transferdata-bot
 A simple Open-Source Discord Bot made for Hacktoberfest!
 
-_Use it to backup from one server to another (if you're an **Admin** of both)._
+_Use it to transfer data from one server to another (if you're an **Admin** of both)._
 
 - Under construction ⚙️
 - Accepting contributions! 😊
 
 ## Possible Features:
-- Own API to store functions (it will be open-source too);
-- Backup: Emojis, Channels, Server Info;
+- Own API to store functions that will return URLs, channel names etc. (it will be open-source too);
+- Transfer: Emojis, Channels, Server Info;
 - Slash Commands (discord.js v13 and node.js v12 required).
 
 ## Notes:
