@@ -1,4 +1,4 @@
-# discord-backup-bot
+# discord-transferdata-bot
 A simple Open-Source Discord Bot made for Hacktoberfest!
 
 _Use it to backup from one server to another (if you're an **Admin** of both)._
